@@ -1,0 +1,86 @@
+[
+    {
+        "id": "ORGANIZATION_ID-Z-1224",
+        "name": "Squad - Engineering",
+        "members": [
+            {
+                "email": "john.doe@example.com"
+            },
+            {
+                "email": "ellie.example@example.com"
+            },
+            {
+                "email": "hugh.jass@example.com"
+            }
+        ]
+    },
+    {
+        "id": "ORGANIZATION_ID-Z-101",
+        "name": "Squad - Procurement",
+        "members": [
+            {
+                "email": "sally.smith@example.com"
+            },
+            {
+                "email": "guy.incognito@example.com"
+            }
+        ]
+    },
+    {
+        "id": "CUSTOM-ID__-Z-987",
+        "name": "Squad - Core App",
+        "members": [
+            {
+                "email": "ellie.example@example.com"
+            }
+        ]
+    },
+    {
+        "id": "ORGANIZATION_ID-Z-XYZ102",
+        "name": "Squad - Foundations",
+        "members": [
+            {
+                "email": "ellie.example@example.com"
+            }
+        ]
+    },
+    {
+        "id": "ORGANIZATION_ID-Z-167",
+        "name": "Squad - Data & Analytics",
+        "members": [
+            {
+                "email": "anita.bath@example.com"
+            },
+            {
+                "email": "ned.flanders@example.com"
+            }
+        ]
+    },
+    {
+        "id": "ORGANIZATION_ID-Z-220",
+        "name": "Squad - Leads",
+        "members": [
+            {
+                "email": "ned.flanders@example.com"
+            }
+        ]
+    },
+    {
+        "id": "ORGANIZATION_ID-Z-62",
+        "name": "Portfolio - FSI",
+        "members": [
+            {
+                "email": "ned.flanders@example.com"
+            }
+        ]
+    },
+    {
+        "id": "ORGANIZATION_ID-Z-94",
+        "name": "Tribe - Integrations",
+        "members": [
+            {
+                "email": "ned.flanders@example.com"
+            }
+        ]
+    }
+]

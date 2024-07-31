@@ -1,0 +1,188 @@
+[
+    {
+        "id": "12345",
+        "email": "john.doe@example.com",
+        "firstName": "John",
+        "lastName": "Doe",
+        "preferredName": "John Doe",
+        "pronoun": "He/Him",
+        "title": "Software Engineer",
+        "department": "Engineering",
+        "managerEmail": "jane.smith@example.com",
+        "businessUnit": "Product Development",
+        "type": "FULL_TIME",
+        "startDate": "2020-01-01",
+        "endDate": null,
+        "bio": "Experienced software engineer with a passion for building scalable applications.",
+        "phoneNumber": "+1 (555) 123-4567",
+        "photoUrl": "https://example.com/photos/john_doe.jpg",
+        "profileUrl": null,
+        "structuredLocation": {
+            "address": "123 Main St, San Francisco, CA 94107",
+            "city": "San Francisco",
+            "state": "California",
+            "country": "United States",
+            "region": "North America",
+            "zipCode": null,
+            "timezone": null,
+            "deskLocation": null,
+            "countryCode": null
+        },
+        "teams": [
+            {
+                "name": "Web Development",
+                "id": "web-dev",
+                "url": null
+            }
+        ],
+        "additionalFields": [
+            {
+                "key": "skills",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "key": "languages",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "key": "DOB",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "key": "inProbation",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "key": "certifications",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "key": "backgroundCheck",
+                "value": [
+                    ""
+                ]
+            }
+        ],
+        "status": "CURRENT",
+        "socialNetworks": [
+            {
+                "name": "linkedin",
+                "profileName": "LinkedIn",
+                "profileUrl": "https://www.linkedin.com/in/johndoe"
+            },
+            {
+                "name": "twitter",
+                "profileName": "Twitter",
+                "profileUrl": "https://twitter.com/johndoe"
+            }
+        ]
+    },
+    {
+        "id": "67890",
+        "email": "jane.smith@example.com",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "preferredName": "Jane Smith",
+        "pronoun": "She/Her",
+        "title": "Product Manager",
+        "department": "Product",
+        "managerEmail": "michael.johnson@example.com",
+        "businessUnit": "Product Development",
+        "type": "FULL_TIME",
+        "startDate": "2018-05-15",
+        "endDate": null,
+        "bio": "Experienced product manager with a track record of delivering successful products.",
+        "phoneNumber": "+1 (555) 987-6543",
+        "photoUrl": "https://example.com/photos/jane_smith.jpg",
+        "profileUrl": null,
+        "structuredLocation": {
+            "address": "456 Broadway, New York, NY 10013",
+            "city": "New York",
+            "state": "New York",
+            "country": "United States",
+            "region": "North America",
+            "zipCode": null,
+            "timezone": null,
+            "deskLocation": null,
+            "countryCode": null
+        },
+        "teams": [
+            {
+                "name": "Product Management",
+                "id": "product-mgmt",
+                "url": "https://example.com/teams/product-mgmt"
+            },
+            {
+                "name": "Product Development",
+                "id": "product-dev",
+                "url": null
+            }
+        ],
+        "additionalFields": [
+            {
+                "key": "skills",
+                "value": [
+                    "Product Management",
+                    "Agile Development",
+                    "Scrum",
+                    "Kanban"
+                ]
+            },
+            {
+                "key": "languages",
+                "value": [
+                    "English",
+                    "Spanish"
+                ]
+            },
+            {
+                "key": "DOB",
+                "value": [
+                    "1985-01-01"
+                ]
+            },
+            {
+                "key": "inProbation",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "key": "certifications",
+                "value": [
+                    "Certified Scrum Master",
+                    "CCIE"
+                ]
+            },
+            {
+                "key": "backgroundCheck",
+                "value": [
+                    "True"
+                ]
+            }
+        ],
+        "status": "CURRENT",
+        "socialNetworks": [
+            {
+                "name": "linkedin",
+                "profileName": "LinkedIn",
+                "profileUrl": "https://www.linkedin.com/in/janesmith"
+            },
+            {
+                "name": "twitter",
+                "profileName": "Twitter",
+                "profileUrl": "https://twitter.com/janesmith"
+            }
+        ]
+    }
+]

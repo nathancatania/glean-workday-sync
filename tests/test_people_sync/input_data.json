@@ -1,0 +1,203 @@
+{
+    "Report_Entry": [
+        {
+            "workerName": "John Doe",
+            "workerEmail": "john.doe@example.com",
+            "firstName": "John",
+            "lastName": "Doe",
+            "pronoun": "He/Him",
+            "businessTitle": "Software Engineer",
+            "department": "Engineering",
+            "managerEmail": "jane.smith@example.com",
+            "businessUnit": "Product Development",
+            "city": "San Francisco",
+            "state": "California",
+            "country": "United States",
+            "region": "North America",
+            "workerType": "Full-time",
+            "workerID": "12345",
+            "hireDate": "2020-01-01",
+            "terminationDate": null,
+            "bio": "Experienced software engineer with a passion for building scalable applications.",
+            "office": "123 Main St, San Francisco, CA 94107",
+            "primaryWorkPhone": "+1 (555) 123-4567",
+            "workerStatus": "Active",
+            "photo": "https://example.com/photos/john_doe.jpg",
+            "linkedin": "https://www.linkedin.com/in/johndoe",
+            "twitter": "https://twitter.com/johndoe",
+            "workerTeams": [
+                {
+                    "teamName": "Web Development",
+                    "teamID": "web-dev"
+                }
+            ]
+        },
+        {
+            "workerName": "Jane Smith",
+            "workerEmail": "jane.smith@example.com",
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "pronoun": "She/Her",
+            "businessTitle": "Product Manager",
+            "department": "Product",
+            "managerEmail": "michael.johnson@example.com",
+            "businessUnit": "Product Development",
+            "city": "New York",
+            "state": "New York",
+            "country": "United States",
+            "region": "North America",
+            "workerType": "Full-time",
+            "workerID": "67890",
+            "hireDate": "2018-05-15",
+            "terminationDate": null,
+            "bio": "Experienced product manager with a track record of delivering successful products.",
+            "office": "456 Broadway, New York, NY 10013",
+            "primaryWorkPhone": "+1 (555) 987-6543",
+            "workerStatus": "Active",
+            "photo": "https://example.com/photos/jane_smith.jpg",
+            "linkedin": "https://www.linkedin.com/in/janesmith",
+            "twitter": "https://twitter.com/janesmith",
+            "workerTeams": [
+                {
+                    "teamName": "Product Management",
+                    "teamID": "product-mgmt"
+                },
+                {
+                    "teamName": "Product Development",
+                    "teamID": "product-dev"
+                }
+            ]
+        },
+        {
+            "workerName": "Michael Johnson",
+            "workerEmail": "michael.johnson@example.com",
+            "firstName": "Michael",
+            "lastName": "Johnson",
+            "pronoun": "He/Him",
+            "businessTitle": "Director of Engineering",
+            "department": "Engineering",
+            "managerEmail": "sarah.davis@example.com",
+            "businessUnit": "Product Development",
+            "city": "Seattle",
+            "state": "Washington",
+            "country": "United States",
+            "region": "North America",
+            "workerType": "Full-time",
+            "workerID": "24680",
+            "hireDate": "2015-09-01",
+            "terminationDate": null,
+            "bio": "Experienced engineering leader with a passion for building high-performing teams.",
+            "office": "789 Pine St, Seattle, WA 98101",
+            "primaryWorkPhone": "+1 (555) 456-7890",
+            "workerStatus": "Active",
+            "photo": "https://example.com/photos/michael_johnson.jpg",
+            "linkedin": "https://www.linkedin.com/in/michaeljohnson",
+            "twitter": "https://twitter.com/michaeljohnson",
+            "workerTeams": [
+                {
+                    "teamName": "Engineering Leadership",
+                    "teamID": "eng-leadership"
+                },
+                {
+                    "teamName": "Product Development",
+                    "teamID": "product-dev"
+                }
+            ]
+        },
+        {
+            "workerName": "Sarah Davis",
+            "workerEmail": "sarah.davis@example.com",
+            "firstName": "Sarah",
+            "lastName": "Davis",
+            "pronoun": "She/Her",
+            "businessTitle": "VP of Product",
+            "department": "Product",
+            "managerEmail": "robert.wilson@example.com",
+            "businessUnit": "Product Development",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "country": "United States",
+            "region": "North America",
+            "workerType": "Full-time",
+            "workerID": "13579",
+            "hireDate": "2012-03-01",
+            "terminationDate": null,
+            "bio": "Experienced product leader with a track record of delivering innovative products.",
+            "office": "246 Beacon St, Boston, MA 02116",
+            "primaryWorkPhone": "+1 (555) 789-0123",
+            "workerStatus": "Active",
+            "photo": "https://example.com/photos/sarah_davis.jpg",
+            "linkedin": "https://www.linkedin.com/in/sarahdavis",
+            "twitter": "https://twitter.com/sarahdavis",
+            "workerTeams": [
+                {
+                    "teamName": "Product Leadership",
+                    "teamID": "product-leadership"
+                }
+            ]
+        },
+        {
+            "workerName": "Robert Wilson",
+            "workerEmail": "robert.wilson@example.com",
+            "firstName": "Robert",
+            "lastName": "Wilson",
+            "pronoun": "He/Him",
+            "businessTitle": "CEO",
+            "department": "Executive",
+            "managerEmail": null,
+            "businessUnit": "Company",
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "United States",
+            "region": "North America",
+            "workerType": "Full-time",
+            "workerID": "24681",
+            "hireDate": "2010-01-01",
+            "terminationDate": null,
+            "bio": "Experienced executive with a passion for building great companies.",
+            "office": "369 Michigan Ave, Chicago, IL 60611",
+            "primaryWorkPhone": "+1 (555) 246-8013",
+            "workerStatus": "Active",
+            "photo": "https://example.com/photos/robert_wilson.jpg",
+            "linkedin": "https://www.linkedin.com/in/robertwilson",
+            "twitter": "https://twitter.com/robertwilson",
+            "workerTeams": [
+                {
+                    "teamName": "Executive Team",
+                    "teamID": "exec-team"
+                }
+            ]
+        },
+        {
+            "workerName": "Ben Benson Jr III",
+            "workerEmail": "ben.benson@example.com",
+            "pronoun": "He/Him",
+            "businessTitle": "Software Engineer",
+            "department": "Engineering",
+            "managerEmail": "manager@example.com",
+            "businessUnit": "Technology",
+            "city": "San Francisco",
+            "state": "California",
+            "country": "United States",
+            "region": "North America",
+            "workerType": "Full-time",
+            "workerID": "76827",
+            "hireDate": "2020-01-01",
+            "terminationDate": "2023-01-01",
+            "bio": "Passionate software engineer with experience in Python and JavaScript.",
+            "office": "123 Market St, San Francisco, CA 94103",
+            "primaryWorkPhone": "+1 (555) 123-4567",
+            "workerStatus": "Active",
+            "photo": "https://example.com/photos/benbenson.jpg",
+            "linkedin": "https://www.linkedin.com/in/benbenson",
+            "twitter": "https://twitter.com/benbenson",
+            "workerTeams": [
+                {
+                    "teamName": "Engineering Team",
+                    "teamID": "eng-team"
+                }
+            ]
+        }
+        
+    ]
+}

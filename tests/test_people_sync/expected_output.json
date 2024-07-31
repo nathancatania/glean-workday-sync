@@ -1,0 +1,318 @@
+[
+    {
+        "id": "12345",
+        "email": "john.doe@example.com",
+        "firstName": "John",
+        "lastName": "Doe",
+        "preferredName": "John Doe",
+        "pronoun": "He/Him",
+        "title": "Software Engineer",
+        "department": "Engineering",
+        "managerEmail": "jane.smith@example.com",
+        "businessUnit": "Product Development",
+        "type": "FULL_TIME",
+        "startDate": "2020-01-01",
+        "endDate": null,
+        "bio": "Experienced software engineer with a passion for building scalable applications.",
+        "phoneNumber": "+1 (555) 123-4567",
+        "photoUrl": "https://example.com/photos/john_doe.jpg",
+        "profileUrl": null,
+        "structuredLocation": {
+            "address": "123 Main St, San Francisco, CA 94107",
+            "city": "San Francisco",
+            "state": "California",
+            "country": "United States",
+            "region": "North America",
+            "zipCode": null,
+            "timezone": null,
+            "deskLocation": null,
+            "countryCode": null
+        },
+        "teams": [
+            {
+                "name": "Web Development",
+                "id": "web-dev",
+                "url": null
+            }
+        ],
+        "additionalFields": [],
+        "status": "CURRENT",
+        "socialNetworks": [
+            {
+                "name": "linkedin",
+                "profileName": "LinkedIn",
+                "profileUrl": "https://www.linkedin.com/in/johndoe"
+            },
+            {
+                "name": "twitter",
+                "profileName": "Twitter",
+                "profileUrl": "https://twitter.com/johndoe"
+            }
+        ]
+    },
+    {
+        "id": "67890",
+        "email": "jane.smith@example.com",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "preferredName": "Jane Smith",
+        "pronoun": "She/Her",
+        "title": "Product Manager",
+        "department": "Product",
+        "managerEmail": "michael.johnson@example.com",
+        "businessUnit": "Product Development",
+        "type": "FULL_TIME",
+        "startDate": "2018-05-15",
+        "endDate": null,
+        "bio": "Experienced product manager with a track record of delivering successful products.",
+        "phoneNumber": "+1 (555) 987-6543",
+        "photoUrl": "https://example.com/photos/jane_smith.jpg",
+        "profileUrl": null,
+        "structuredLocation": {
+            "address": "456 Broadway, New York, NY 10013",
+            "city": "New York",
+            "state": "New York",
+            "country": "United States",
+            "region": "North America",
+            "zipCode": null,
+            "timezone": null,
+            "deskLocation": null,
+            "countryCode": null
+        },
+        "teams": [
+            {
+                "name": "Product Management",
+                "id": "product-mgmt",
+                "url": null
+            },
+            {
+                "name": "Product Development",
+                "id": "product-dev",
+                "url": null
+            }
+        ],
+        "additionalFields": [],
+        "status": "CURRENT",
+        "socialNetworks": [
+            {
+                "name": "linkedin",
+                "profileName": "LinkedIn",
+                "profileUrl": "https://www.linkedin.com/in/janesmith"
+            },
+            {
+                "name": "twitter",
+                "profileName": "Twitter",
+                "profileUrl": "https://twitter.com/janesmith"
+            }
+        ]
+    },
+    {
+        "id": "24680",
+        "email": "michael.johnson@example.com",
+        "firstName": "Michael",
+        "lastName": "Johnson",
+        "preferredName": "Michael Johnson",
+        "pronoun": "He/Him",
+        "title": "Director of Engineering",
+        "department": "Engineering",
+        "managerEmail": "sarah.davis@example.com",
+        "businessUnit": "Product Development",
+        "type": "FULL_TIME",
+        "startDate": "2015-09-01",
+        "endDate": null,
+        "bio": "Experienced engineering leader with a passion for building high-performing teams.",
+        "phoneNumber": "+1 (555) 456-7890",
+        "photoUrl": "https://example.com/photos/michael_johnson.jpg",
+        "profileUrl": null,
+        "structuredLocation": {
+            "address": "789 Pine St, Seattle, WA 98101",
+            "city": "Seattle",
+            "state": "Washington",
+            "country": "United States",
+            "region": "North America",
+            "zipCode": null,
+            "timezone": null,
+            "deskLocation": null,
+            "countryCode": null
+        },
+        "teams": [
+            {
+                "name": "Engineering Leadership",
+                "id": "eng-leadership",
+                "url": null
+            },
+            {
+                "name": "Product Development",
+                "id": "product-dev",
+                "url": null
+            }
+        ],
+        "additionalFields": [],
+        "status": "CURRENT",
+        "socialNetworks": [
+            {
+                "name": "linkedin",
+                "profileName": "LinkedIn",
+                "profileUrl": "https://www.linkedin.com/in/michaeljohnson"
+            },
+            {
+                "name": "twitter",
+                "profileName": "Twitter",
+                "profileUrl": "https://twitter.com/michaeljohnson"
+            }
+        ]
+    },
+    {
+        "id": "13579",
+        "email": "sarah.davis@example.com",
+        "firstName": "Sarah",
+        "lastName": "Davis",
+        "preferredName": "Sarah Davis",
+        "pronoun": "She/Her",
+        "title": "VP of Product",
+        "department": "Product",
+        "managerEmail": "robert.wilson@example.com",
+        "businessUnit": "Product Development",
+        "type": "FULL_TIME",
+        "startDate": "2012-03-01",
+        "endDate": null,
+        "bio": "Experienced product leader with a track record of delivering innovative products.",
+        "phoneNumber": "+1 (555) 789-0123",
+        "photoUrl": "https://example.com/photos/sarah_davis.jpg",
+        "profileUrl": null,
+        "structuredLocation": {
+            "address": "246 Beacon St, Boston, MA 02116",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "country": "United States",
+            "region": "North America",
+            "zipCode": null,
+            "timezone": null,
+            "deskLocation": null,
+            "countryCode": null
+        },
+        "teams": [
+            {
+                "name": "Product Leadership",
+                "id": "product-leadership",
+                "url": null
+            }
+        ],
+        "additionalFields": [],
+        "status": "CURRENT",
+        "socialNetworks": [
+            {
+                "name": "linkedin",
+                "profileName": "LinkedIn",
+                "profileUrl": "https://www.linkedin.com/in/sarahdavis"
+            },
+            {
+                "name": "twitter",
+                "profileName": "Twitter",
+                "profileUrl": "https://twitter.com/sarahdavis"
+            }
+        ]
+    },
+    {
+        "id": "24681",
+        "email": "robert.wilson@example.com",
+        "firstName": "Robert",
+        "lastName": "Wilson",
+        "preferredName": "Robert Wilson",
+        "pronoun": "He/Him",
+        "title": "CEO",
+        "department": "Executive",
+        "managerEmail": null,
+        "businessUnit": "Company",
+        "type": "FULL_TIME",
+        "startDate": "2010-01-01",
+        "endDate": null,
+        "bio": "Experienced executive with a passion for building great companies.",
+        "phoneNumber": "+1 (555) 246-8013",
+        "photoUrl": "https://example.com/photos/robert_wilson.jpg",
+        "profileUrl": null,
+        "structuredLocation": {
+            "address": "369 Michigan Ave, Chicago, IL 60611",
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "United States",
+            "region": "North America",
+            "zipCode": null,
+            "timezone": null,
+            "deskLocation": null,
+            "countryCode": null
+        },
+        "teams": [
+            {
+                "name": "Executive Team",
+                "id": "exec-team",
+                "url": null
+            }
+        ],
+        "additionalFields": [],
+        "status": "CURRENT",
+        "socialNetworks": [
+            {
+                "name": "linkedin",
+                "profileName": "LinkedIn",
+                "profileUrl": "https://www.linkedin.com/in/robertwilson"
+            },
+            {
+                "name": "twitter",
+                "profileName": "Twitter",
+                "profileUrl": "https://twitter.com/robertwilson"
+            }
+        ]
+    },
+    {
+        "id": "76827",
+        "email": "ben.benson@example.com",
+        "firstName": "Ben",
+        "lastName": "Benson Jr III",
+        "preferredName": "Ben Benson Jr III",
+        "pronoun": "He/Him",
+        "title": "Software Engineer",
+        "department": "Engineering",
+        "managerEmail": "manager@example.com",
+        "businessUnit": "Technology",
+        "type": "FULL_TIME",
+        "startDate": "2020-01-01",
+        "endDate": "2023-01-01",
+        "bio": "Passionate software engineer with experience in Python and JavaScript.",
+        "phoneNumber": "+1 (555) 123-4567",
+        "photoUrl": "https://example.com/photos/benbenson.jpg",
+        "profileUrl": null,
+        "structuredLocation": {
+            "address": "123 Market St, San Francisco, CA 94103",
+            "city": "San Francisco",
+            "state": "California",
+            "country": "United States",
+            "region": "North America",
+            "zipCode": null,
+            "timezone": null,
+            "deskLocation": null,
+            "countryCode": null
+        },
+        "teams": [
+            {
+                "name": "Engineering Team",
+                "id": "eng-team",
+                "url": null
+            }
+        ],
+        "additionalFields": [],
+        "status": "EX",
+        "socialNetworks": [
+            {
+                "name": "linkedin",
+                "profileName": "LinkedIn",
+                "profileUrl": "https://www.linkedin.com/in/benbenson"
+            },
+            {
+                "name": "twitter",
+                "profileName": "Twitter",
+                "profileUrl": "https://twitter.com/benbenson"
+            }
+        ]
+    }
+]

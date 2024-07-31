@@ -1,0 +1,10 @@
+{   
+    "id": "Employee_ID",
+    "email": "Email_-_Work",
+    "department": "Business_Unit",
+    "teams": [{
+        "__sourceField": "Delivery_Teams_group",
+        "name": "Organisation_Name",
+        "id": "Organisation_Reference_ID"
+    }]
+}

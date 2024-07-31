@@ -1,0 +1,115 @@
+{
+   "Report_Entry": [
+      {
+         "Email_-_Work": "john.doe@example.com",
+         "Business_Unit": "Technology & Data",
+         "Employee_ID": "000033",
+         "Worker": "John Doe",
+         "Worker_s_Manager": "Bob Bobson",
+         "Delivery_Teams_group": [
+            {
+               "Organisation_Name": "Squad - Engineering",
+               "Organisation_Reference_ID": "ORGANIZATION_ID-Z-1224"
+            }
+         ]
+      },
+      {
+         "Email_-_Work": "sally.smith@example.com",
+         "Business_Unit": "Product Development",
+         "Employee_ID": "000555",
+         "Worker": "Sally Smith",
+         "Worker_s_Manager": "Amy Pond",
+         "Delivery_Teams_group": [
+            {
+               "Organisation_Name": "Squad - Procurement",
+               "Organisation_Reference_ID": "ORGANIZATION_ID-Z-101"
+            }
+         ]
+      },
+      {
+         "Email_-_Work": "ellie.example@example.com",
+         "Business_Unit": "Product Development",
+         "Employee_ID": "000222",
+         "Worker": "Ellie Example",
+         "Worker_s_Manager": "Sally Smith",
+         "Delivery_Teams_group": [
+            {
+               "Organisation_Name": "Squad - Core App",
+               "Organisation_Reference_ID": "CUSTOM-ID__-Z-987"
+            },
+            {
+               "Organisation_Name": "Squad - Engineering",
+               "Organisation_Reference_ID": "ORGANIZATION_ID-Z-1224"
+            },
+            {
+               "Organisation_Name": "Squad - Foundations",
+               "Organisation_Reference_ID": "ORGANIZATION_ID-Z-XYZ102"
+            }
+         ]
+      },
+      {
+         "Email_-_Work": "hugh.jass@example.com",
+         "Business_Unit": "Technology & Data",
+         "Employee_ID": "001111",
+         "Worker": "Hugh Jass",
+         "Worker_s_Manager": "Bob Bobson",
+         "Delivery_Teams_group": [
+            {
+               "Organisation_Name": "Squad - Engineering",
+               "Organisation_Reference_ID": "ORGANIZATION_ID-Z-1224"
+            }
+         ]
+      },
+      {
+         "Email_-_Work": "guy.incognito@example.com",
+         "Business_Unit": "Product Development",
+         "Employee_ID": "008888",
+         "Worker": "Guy Incognito",
+         "Worker_s_Manager": "Sally Smith",
+         "Delivery_Teams_group": [
+            {
+               "Organisation_Name": "Squad - Procurement",
+               "Organisation_Reference_ID": "ORGANIZATION_ID-Z-101"
+            }
+         ]
+      },
+      {
+         "Email_-_Work": "anita.bath@example.com",
+         "Business_Unit": "Product Development",
+         "Employee_ID": "009999",
+         "Worker": "Anita Bath",
+         "Worker_s_Manager": "Sally Smith",
+         "Delivery_Teams_group": [
+            {
+               "Organisation_Name": "Squad - Data & Analytics",
+               "Organisation_Reference_ID": "ORGANIZATION_ID-Z-167"
+            }
+         ]
+      },
+      {
+         "Email_-_Work": "ned.flanders@example.com",
+         "Business_Unit": "Finance",
+         "Employee_ID": "008663",
+         "Worker": "Ned Flanders",
+         "Worker_s_Manager": "Monty Burns",
+         "Delivery_Teams_group": [
+            {
+               "Organisation_Name": "Squad - Leads",
+               "Organisation_Reference_ID": "ORGANIZATION_ID-Z-220"
+            },
+            {
+               "Organisation_Name": "Squad - Data & Analytics",
+               "Organisation_Reference_ID": "ORGANIZATION_ID-Z-167"
+            },
+            {
+               "Organisation_Name": "Portfolio - FSI",
+               "Organisation_Reference_ID": "ORGANIZATION_ID-Z-62"
+            },
+            {
+               "Organisation_Name": "Tribe - Integrations",
+               "Organisation_Reference_ID": "ORGANIZATION_ID-Z-94"
+            }
+         ]
+      }
+   ]
+}

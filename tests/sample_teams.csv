@@ -1,0 +1,7 @@
+id,name,members
+web-dev,Web Development,john.doe@example.com
+product-mgmt,Product Management,jane.smith@example.com
+product-dev,Product Development,"michael.johnson@example.com,jane.smith@example.com"
+eng-leadership,Engineering Leadership,michael.johnson@example.com
+product-leadership,Product Leadership,sarah.davis@example.com
+exec-team,Executive Team,robert.wilson@example.com
