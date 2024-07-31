@@ -1,9 +1,16 @@
-# Workday
+# Sync Workday People/Directory Data to Glean
 
-Pull people and teams information from a Workday report and have it automatically pushed to Glean.
+This is a custom connector that will fetch employee/directory data from a Workday Report URL, and push it to [Glean](https://glean.com) for use as a source of directory information.
+
+> [!NOTE]
+> Any thoughts and opinions expressed are my own and do not reflect those of Glean.
+> This code was developed in my own time, and is not officially supported by Glean.
+
+> [!WARNING]
+> This code is provided "as-is". You should examine it in detail, test it thouroughly, and use it at your own risk.
 
 ## Requirements
-- [x] Workday Report in JSON format.
+- [x] Workday Report made available at a URL (in JSON format).
 - [x] Username/Password or API key to access the Workday report.
 - [x] Glean Indexing API key.
 - [x] Glean tenant/backend domain, e.g. `mycompany-be.glean.com`
