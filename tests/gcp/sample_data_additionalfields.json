@@ -1,0 +1,95 @@
+{
+    "Report_Entry": [
+        {
+            "workerName": "John Doe",
+            "workerEmail": "john.doe@example.com",
+            "firstName": "John",
+            "lastName": "Doe",
+            "pronoun": "He/Him",
+            "businessTitle": "Software Engineer",
+            "department": "Engineering",
+            "managerEmail": "jane.smith@example.com",
+            "businessUnit": "Product Development",
+            "city": "San Francisco",
+            "state": "California",
+            "country": "United States",
+            "region": "North America",
+            "workerType": "Full-time",
+            "workerID": "12345",
+            "hireDate": "2020-01-01",
+            "terminationDate": null,
+            "bio": "Experienced software engineer with a passion for building scalable applications.",
+            "office": "123 Main St, San Francisco, CA 94107",
+            "primaryWorkPhone": "+1 (555) 123-4567",
+            "workerStatus": "Active",
+            "photo": "https://example.com/photos/john_doe.jpg",
+            "linkedin": "https://www.linkedin.com/in/johndoe",
+            "twitter": "https://twitter.com/johndoe",
+            "workerTeams": [
+                {
+                    "teamName": "Web Development",
+                    "teamID": "web-dev"
+                }
+            ]
+        },
+        {
+            "workerName": "Jane Smith",
+            "workerEmail": "jane.smith@example.com",
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "pronoun": "She/Her",
+            "businessTitle": "Product Manager",
+            "department": "Product",
+            "managerEmail": "michael.johnson@example.com",
+            "businessUnit": "Product Development",
+            "city": "New York",
+            "state": "New York",
+            "country": "United States",
+            "region": "North America",
+            "workerType": "Full-time",
+            "workerID": "67890",
+            "hireDate": "2018-05-15",
+            "terminationDate": null,
+            "bio": "Experienced product manager with a track record of delivering successful products.",
+            "office": "456 Broadway, New York, NY 10013",
+            "primaryWorkPhone": "+1 (555) 987-6543",
+            "workerStatus": "Active",
+            "photo": "https://example.com/photos/jane_smith.jpg",
+            "linkedin": "https://www.linkedin.com/in/janesmith",
+            "twitter": "https://twitter.com/janesmith",
+            "workerTeams": [
+                {
+                    "teamName": "Product Management",
+                    "teamID": "product-mgmt",
+                    "teamUrl": "https://example.com/teams/product-mgmt"
+                },
+                {
+                    "teamName": "Product Development",
+                    "teamID": "product-dev"
+                }
+            ],
+            "languages": [
+                "English",
+                "Spanish"
+            ],
+            "DOB": "1985-01-01",
+            "skills": [
+                "Product Management",
+                "Agile Development",
+                "Scrum",
+                "Kanban"
+            ],
+            "backgroundCheck": true,
+            "inProbation": false,
+            "certifications": [
+                "Certified Scrum Master",
+                "CCIE"
+            ],
+            "hobbies": [
+                "Hiking",
+                "Reading",
+                "Traveling"
+            ]
+        }
+    ]
+}
