@@ -7,7 +7,7 @@ This is a custom connector that will fetch employee/directory data from a Workda
 > This code was developed in my own time, and is not officially supported by Glean.
 
 > [!WARNING]
-> This code is provided "as-is". You should examine it in detail, test it thouroughly, and use it at your own risk.
+> This code is provided "as-is". You should examine it in detail, test it thoroughly, and use it at your own risk.
 
 ## Requirements
 - [x] Workday Report made available at a URL (in JSON format).
