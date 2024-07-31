@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.tar.gz
+*.tar.bz2
+*.tgz
+*.bz2
+*.zip
+*.rar
+*.7z
+*.exe
+*.msi
+*.dll
+*.dylib
+*.db
+*.sql
+*.sqlite
+
+# Environments
+.env
+.venv/
+ENV/
+env/
+venv/
+ENV.bak/
+env.bak/
+venv.bak/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# pytest
+.pytest_cache/
+
+# Misc
+people.csv
+teams.csv

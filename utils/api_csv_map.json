@@ -1,0 +1,74 @@
+{
+    "people_data": {
+        "email": "email",
+        "firstName": "first_name",
+        "lastName": "last_name",
+        "preferredName": "name",
+        "id": "employee_id",
+        "phoneNumber": "phone_number",
+        "structuredLocation": {
+            "address": "address",
+            "city": "city",
+            "state": "state",
+            "country": "country",
+            "region": "region",
+            "zipCode": "zip_code",
+            "timezone": "timezone",
+            "deskLocation": "desk_location",
+            "countryCode": "country_code"
+        },
+        "title": "title",
+        "photoUrl": "photo_url",
+        "businessUnit": "business_unit",
+        "department": "department",
+        "startDate": "start_date",
+        "endDate": "end_date",
+        "bio": "bio",
+        "pronoun": "pronoun",
+        "profileUrl": "external_profile_link",
+        "socialNetworks": "_url",
+        "managerEmail": "manager_email",
+        "type": "employee_type",
+        "status": "status",
+        "teams": [],
+        "additionalFields": [
+            {
+                "key": "banner_photo_url",
+                "value": [
+                    ""
+                ]
+            },
+            {
+                "key": "additionalFieldName1",
+                "value": [
+                    "additionalFieldName1_value"
+                ]
+            },
+            {
+                "key": "additionalFieldName2",
+                "value": [
+                    "additionalFieldName2_value1",
+                    "additionalFieldName2_value2"
+                ]
+            },
+            {
+                "key": "additionalFieldName3",
+                "value": [
+                    ""
+                ]
+            }
+        ]
+    },
+    "teams_data": {
+        "id": "id",
+        "name": "name",
+        "url": "url",
+        "members": [
+            {
+                "email": "email",
+                "relationship": "relationship",
+                "join_date": "join_date"
+            }
+        ]
+    }
+}
